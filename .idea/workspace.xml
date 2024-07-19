@@ -4,34 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b73bb649-5d10-4fa5-b7ba-5d574f5ba342" name="Changes" comment="Added AreaCalculator.kt, barkingDog.kt, DecimalComparator.kt, EqualityPrinter.kt, EqualSumChecker.kt, EvenDigitSum.kt, FirstAndLastDigitSum.kt, LeapYearCalculator.kt, MegaBytesConverter.kt, MinutesToYearsAndDaysCalculator.kt, NumberInWord.kt, NumberPalindrome.kt, PlayingCat.kt, PositiveNegativeZero.kt, SpeedConverter.kt, SumOdd.kt, TeenNumberChecker.kt">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin-practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/AreaCalculator/AreaCalculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/BarkingDog/barkingDog.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/DecimalComparator/DecimalComparator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/EqualSumChecker/EqualSumChecker.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/EqualityPrinter/EqualityPrinter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/EvenDigitSum/EvenDigitSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/FirstAndLastDigitSum/FirstAndLastDigitSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/LeapYearCalculator/LeapYearCalculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/MegaBytesConverter/MegaBytesConverter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/MinutesToYearsAndDaysCalculator/MinutesToYearsAndDaysCalculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/NumberInWord/NumberInWord.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/NumberOfDaysInMonth/NumberOfDaysInMonth.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/NumberPalindrome/NumberPalindrome.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/PlayingCat/PlayingCat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/PositiveNegativeZero/PositiveNegativeZero.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/SpeedConverter/SpeedConverter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/SumOdd/SumOdd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/TeenNumberChecker/TeenNumberChecker.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.kt" afterDir="false" />
+    <list default="true" id="b73bb649-5d10-4fa5-b7ba-5d574f5ba342" name="Changes" comment="Add solution to exercises: Person, Point, Sum Calculator, Wall">
+      <change afterPath="$PROJECT_DIR$/src/exercises/CarpetCostCalculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/CarpetCostCalculator/Carpet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/CarpetCostCalculator/Floor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/ComplexOperations/ComplexNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Cylinder/Circle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Cylinder/Cylinder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -61,13 +42,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.AllFactorsKt.executor": "Run",
     "Kotlin.AreaCalculatorKt.executor": "Run",
     "Kotlin.BarkingDogKt.executor": "Run",
+    "Kotlin.CalculatorKt.executor": "Run",
+    "Kotlin.ComplexNumberKt.executor": "Run",
+    "Kotlin.CylinderKt.executor": "Run",
     "Kotlin.DecimalComparatorKt.executor": "Run",
     "Kotlin.EqualSumCheckerKt.executor": "Run",
     "Kotlin.EqualityPrinterKt.executor": "Run",
     "Kotlin.EvenDigitSumKt.executor": "Run",
     "Kotlin.FirstAndLastDigitSumKt.executor": "Run",
+    "Kotlin.FlourPackProblemKt.executor": "Run",
+    "Kotlin.GreatestCommonDivisorKt.executor": "Run",
+    "Kotlin.InputCalculatorKt.executor": "Run",
+    "Kotlin.LargestPrimeKt.executor": "Run",
+    "Kotlin.LastDigitCheckerKt.executor": "Run",
     "Kotlin.LeapYearCalculatorKt.executor": "Run",
     "Kotlin.MainKt (1).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
@@ -76,11 +66,19 @@
     "Kotlin.NumberInWordKt.executor": "Run",
     "Kotlin.NumberOfDaysInMonthKt.executor": "Run",
     "Kotlin.NumberPalindromeKt.executor": "Run",
+    "Kotlin.NumberToWordsKt.executor": "Run",
+    "Kotlin.PaintJobKt.executor": "Run",
+    "Kotlin.PerfectNumberKt.executor": "Run",
+    "Kotlin.PersonKt.executor": "Run",
     "Kotlin.PlayingCatKt.executor": "Run",
+    "Kotlin.PointKt.executor": "Run",
     "Kotlin.PositiveNegativeZeroKt.executor": "Run",
+    "Kotlin.SharedDigitKt.executor": "Run",
     "Kotlin.SpeedConverterKt.executor": "Run",
+    "Kotlin.SumCalculatorKt.executor": "Run",
     "Kotlin.SumOddKt.executor": "Run",
     "Kotlin.TeenNumberCheckerKt.executor": "Run",
+    "Kotlin.WallKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -88,40 +86,41 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercises/GreatestCommonDivisor" />
       <recent name="$PROJECT_DIR$/src/exercises/FirstAndLastDigitSum" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SpeedConverterKt">
-    <configuration name="EvenDigitSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.EvenDigitSum.EvenDigitSumKt" />
+  <component name="RunManager" selected="Kotlin.CylinderKt">
+    <configuration name="CalculatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.CarpetCostCalculator.CalculatorKt" />
       <module name="kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastDigitSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.FirstAndLastDigitSum.FirstAndLastDigitSumKt" />
+    <configuration name="ComplexNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ComplexOperations.ComplexNumberKt" />
       <module name="kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfDaysInMonthKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.NumberOfDaysInMonth.NumberOfDaysInMonthKt" />
+    <configuration name="CylinderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Cylinder.CylinderKt" />
       <module name="kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPalindromeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.NumberPalindrome.NumberPalindromeKt" />
+    <configuration name="PointKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Point.PointKt" />
       <module name="kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeedConverterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SpeedConverter.SpeedConverterKt" />
+    <configuration name="WallKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.WallArea.WallKt" />
       <module name="kotlin-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SpeedConverterKt" />
-        <item itemvalue="Kotlin.EvenDigitSumKt" />
-        <item itemvalue="Kotlin.NumberOfDaysInMonthKt" />
-        <item itemvalue="Kotlin.FirstAndLastDigitSumKt" />
-        <item itemvalue="Kotlin.NumberPalindromeKt" />
+        <item itemvalue="Kotlin.CylinderKt" />
+        <item itemvalue="Kotlin.ComplexNumberKt" />
+        <item itemvalue="Kotlin.CalculatorKt" />
+        <item itemvalue="Kotlin.PointKt" />
+        <item itemvalue="Kotlin.WallKt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,10 +145,49 @@
       <option name="presentableId" value="Default" />
       <updated>1719433284106</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added AreaCalculator.kt, barkingDog.kt, DecimalComparator.kt, EqualityPrinter.kt, EqualSumChecker.kt, EvenDigitSum.kt, FirstAndLastDigitSum.kt, LeapYearCalculator.kt, MegaBytesConverter.kt, MinutesToYearsAndDaysCalculator.kt, NumberInWord.kt, NumberPalindrome.kt, PlayingCat.kt, PositiveNegativeZero.kt, SpeedConverter.kt, SumOdd.kt, TeenNumberChecker.kt">
+      <option name="closed" value="true" />
+      <created>1720372760729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720372760729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add solution to exercises: AllFactors.kt, FlourPackProblem.kt, GreatestCommonDivisor.kt, InputCalculator.kt, LargestPrime.kt, LastDigitChecker.kt, NumberToWords.kt, PaintJob.kt, PerfectNumber.kt, SharedDigit.kt">
+      <option name="closed" value="true" />
+      <created>1721243587220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721243587220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add solution to exercises: Person, Point, Sum Calculator, Wall">
+      <option name="closed" value="true" />
+      <created>1721324653124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721324653124</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added AreaCalculator.kt, barkingDog.kt, DecimalComparator.kt, EqualityPrinter.kt, EqualSumChecker.kt, EvenDigitSum.kt, FirstAndLastDigitSum.kt, LeapYearCalculator.kt, MegaBytesConverter.kt, MinutesToYearsAndDaysCalculator.kt, NumberInWord.kt, NumberPalindrome.kt, PlayingCat.kt, PositiveNegativeZero.kt, SpeedConverter.kt, SumOdd.kt, TeenNumberChecker.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added AreaCalculator.kt, barkingDog.kt, DecimalComparator.kt, EqualityPrinter.kt, EqualSumChecker.kt, EvenDigitSum.kt, FirstAndLastDigitSum.kt, LeapYearCalculator.kt, MegaBytesConverter.kt, MinutesToYearsAndDaysCalculator.kt, NumberInWord.kt, NumberPalindrome.kt, PlayingCat.kt, PositiveNegativeZero.kt, SpeedConverter.kt, SumOdd.kt, TeenNumberChecker.kt" />
+    <MESSAGE value="Add solution to exercises: AllFactors.kt, FlourPackProblem.kt, GreatestCommonDivisor.kt, InputCalculator.kt, LargestPrime.kt, LastDigitChecker.kt, NumberToWords.kt, PaintJob.kt, PerfectNumber.kt, SharedDigit.kt" />
+    <MESSAGE value="Add solution to exercises:" />
+    <MESSAGE value="Add solution to exercises: Person, Point, Sum Calculator, Wall" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solution to exercises: Person, Point, Sum Calculator, Wall" />
   </component>
 </project>
